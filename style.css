@@ -1,0 +1,22 @@
+
+.custom-style1 {
+    font-family: "Arial";
+    font-size: 30px;
+    font-weight: bold;
+    color: #0e3557;
+    padding: 10px;
+}
+.custom-style2 {
+    font-family: "TArial";
+    font-size: 25px;
+    color: #20547b;
+    font-weight: bold;
+    padding: 5px;
+}
+.custom-style3 {
+    font-family: "Arial";
+    font-size: 18px;
+    color: #19445b;
+    font-weight: bold;
+    padding: 5px;
+}
