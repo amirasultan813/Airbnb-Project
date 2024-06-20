@@ -13,4 +13,4 @@ original name, AirBedandBreakfast.com.
 
 - Furthermore, analysis on guest reviews to understand factors driving customer satisfaction and preferences could inform targeted marketing strategies and product improvements for Airbnb.
 
-## Video link : https://github.com/amirasultan813/Airbnb-Project/edit/main/README.md
+## Video link : 
