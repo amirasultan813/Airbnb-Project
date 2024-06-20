@@ -12,3 +12,5 @@ original name, AirBedandBreakfast.com.
 - Key findings include the dominance in counts of Entire home/apt listings, the variability in listing counts across neighborhood groups, and the downward trend between property construction year and price. Additionally, the analysis highlighted the significance of strong correlation between listing price and service fee.
 
 - Furthermore, analysis on guest reviews to understand factors driving customer satisfaction and preferences could inform targeted marketing strategies and product improvements for Airbnb.
+
+## Video link : https://github.com/amirasultan813/Airbnb-Project/edit/main/README.md
